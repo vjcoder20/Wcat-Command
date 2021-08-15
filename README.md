@@ -1,6 +1,6 @@
-#Task-2 From PepCoding
 
-Build wcat commnad
+
+Build wcat command
 
 It is used to display or make a copy content of one or more files in the terminal 
 
